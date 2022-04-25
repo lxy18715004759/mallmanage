@@ -1,6 +1,6 @@
 <template>
   <div class="login-wrap">
-
+    <h3>商城系统</h3>
     <el-form class="login-form" label-position="top" label-width="80px" :model="formData">
       <h2>用户登录</h2>
       <el-form-item label="用户名">
